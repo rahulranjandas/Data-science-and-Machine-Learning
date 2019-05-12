@@ -1,1 +1,11 @@
-
+What is Linear Regression?
+    Linear Regession is a form of predictive modelling which investigates the relationship between a dependent variable and an independent variable.
+    
+Consider an equation of a simple line, 
+    Y = mX + c
+    
+    Y - Dependent Variable
+    X - Independent Variable
+    m - +/- slope
+    c - Y intercept
+    
