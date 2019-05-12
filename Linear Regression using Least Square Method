@@ -9,3 +9,10 @@ Consider an equation of a simple line,
     m - +/- slope
     c - Y intercept
     
+Criteria of selecting Linear Regression
+****************************************
+    1. Classification and Regression capabilities
+    2. Data quality - No outliers, no missing values
+    3. Computation Complexity - Not computationally expensive
+    4. Comprehensive and transparent - easy to explain and understand
+
